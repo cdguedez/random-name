@@ -1,7 +1,7 @@
 {
-  "name": "first-package-npm",
+  "name": "package-name-cdguedez",
   "version": "1.0.0",
-  "description": "",
+  "description": "Whenever I start a new project, I don't know what to write for the first commit. After doing a “git init” there is technically nothing there...",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
   "author": "Carlos Guedez <cdgr.ing@gmail.com>",
   "license": "MIT",
   "bin": {
-    "first-package-bin": "./bin/global.js"
+    "random-name": "./bin/global.js"
   },
   "preferGlobal": true
 }
